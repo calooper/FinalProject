@@ -50,6 +50,9 @@ Admin Account:
 -   Email: gearsilo@gmail.com
 -   Password: gear
 
+### Database Schema
+<img src="https://i.imgur.com/A5s54Hv.png" width="700">
+
 ### Technologies used:
 
 Java 1.8 / EE, Java Persistence API (JPA), REST API, Spring Boot, Spring Security, JUnit, Gradle, Hibernate, JSON, TypeScript, Angular, Visual Studio Code, HTML5, CSS, Bootstrap, XML, MySQL Workbench, Postman, Apache Tomcat, Amazon Web Services (AWS), Atom, Git, GitHub, Trello, and Slack.
